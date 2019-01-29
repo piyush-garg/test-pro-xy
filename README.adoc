@@ -7,7 +7,7 @@ IMPORTANT: As part of the process of creating this booster, developers.redhat.co
 == Runing the Booster Locally
 
 
-[source,bash,options="nowrap",subs="attributes+"]
+[source,bash,options="nowrap",subs="attributes
 ----
 $ git clone git@github.com:piyush-garg/test-pro-xy
 
